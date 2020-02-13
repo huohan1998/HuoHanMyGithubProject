@@ -1,4 +1,4 @@
-# HuoHanMyGithubProject
+# 创建基于github的毕设项目
 1.	安装git
 1.1 下载git
 1.2 安装git
